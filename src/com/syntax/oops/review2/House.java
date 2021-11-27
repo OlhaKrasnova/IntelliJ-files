@@ -1,14 +1,14 @@
 package com.syntax.oops.review2;
 
 public class House {
-String color;
-int rooms;
-double area;
+    String color;
+    int rooms;
+    double area;
 
-void clean(){
+    void clean() {
 
-    System.out.println("We Clean house");
+        System.out.println("We Clean house");
 
+    }
 }
 
-}
